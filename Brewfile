@@ -4,7 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
-cask install dash
+
 
 ## rcmdnk/file
 tap rcmdnk/file
