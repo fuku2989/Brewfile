@@ -31,6 +31,9 @@ install readline
 install ruby-build
 install wget
 
+## Developer
+brew cask install dash
+
 # App Store applications
 appstore Evernote
 appstore Xcode
