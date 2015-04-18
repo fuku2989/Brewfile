@@ -4,6 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install dash
 
 ## rcmdnk/file
 tap rcmdnk/file
@@ -12,6 +13,7 @@ install brew-file
 # Other Homebrew packages
 install autoconf
 install bash-completion
+install dash
 install fontconfig
 install freetype
 install gd
@@ -31,12 +33,6 @@ install readline
 install ruby-build
 install wget
 
-## Developer
-brew cask install dash
-
 # App Store applications
 appstore Evernote
 appstore Xcode
-
-# Other commands
-git fuku2989/Brewfile
