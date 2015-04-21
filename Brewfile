@@ -4,6 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install appcleaner
 
 ## rcmdnk/file
 tap rcmdnk/file
