@@ -12,9 +12,10 @@ install brew-file
 
 # Other Homebrew packages
 install autoconf
+install automake
 install bash-completion
 install dash
-install emacs --with-gnutls --with-cocoa
+install emacs --with-cocoa --with-gnutls
 install fontconfig
 install freetype
 install gd
@@ -33,12 +34,14 @@ install openssl
 install pkg-config
 install pyenv
 install rbenv
+install rbenv-default-gems
 install rbenv-gem-rehash
 install rbenv-gemset
 install readline
 install ruby-build
 install wget
 install xz
+install zeromq
 
 # App Store applications
 appstore Evernote
