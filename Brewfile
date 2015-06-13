@@ -6,8 +6,10 @@ tap caskroom/cask
 brew brew-cask
 cask appcleaner
 cask bettertouchtool
+cask cheatsheet
 cask clipmenu
 cask coteditor
+cask karabiner
 cask macdown
 cask virtualbox
 
