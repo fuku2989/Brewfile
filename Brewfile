@@ -5,7 +5,11 @@
 tap caskroom/cask
 brew brew-cask
 cask appcleaner
+cask bettertouchtool
+cask clipmenu
 cask coteditor
+cask macdown
+cask virtualbox
 
 ## rcmdnk/file
 tap rcmdnk/file
