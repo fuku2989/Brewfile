@@ -5,6 +5,7 @@
 tap caskroom/cask
 brew brew-cask
 cask appcleaner
+cask coteditor
 
 ## rcmdnk/file
 tap rcmdnk/file
