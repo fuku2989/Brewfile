@@ -13,6 +13,10 @@ cask karabiner
 cask macdown
 cask virtualbox
 
+## homebrew/boneyard
+tap homebrew/boneyard
+brew pyenv-pip-rehash
+
 ## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
